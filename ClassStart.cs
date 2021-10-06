@@ -114,7 +114,7 @@ namespace Kordamine
             }
             else if (height < 200 && height > 99)
             {
-                Console.WriteLine("Sinu pikkus on keskmine")
+                Console.WriteLine("Sinu pikkus on keskmine");
             }
         }
     }
